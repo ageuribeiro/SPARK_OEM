@@ -2,5 +2,5 @@
     "sketch": "arduino\\exemplo-vscode.ino",
     "board": "arduino:avr:uno",
     "port": "COM3",
-    "programmer": "avrisp"
+    "programmer": "arduinoasisp"
 }
